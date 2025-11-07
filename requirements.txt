@@ -1,6 +1,6 @@
 streamlit
 streamlit_webrtc
-cv2
+opencv-python
 mediapipe
 numpy
 time
