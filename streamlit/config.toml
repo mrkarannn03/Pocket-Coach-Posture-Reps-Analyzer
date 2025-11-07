@@ -1,0 +1,8 @@
+
+[server]
+# Set the port the web server listens on.
+port = 8501
+
+[browser]
+# Set the browser to be run in 'gather' mode to improve efficiency
+gatherUsageStats = false
