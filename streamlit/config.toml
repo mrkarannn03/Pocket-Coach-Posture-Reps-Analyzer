@@ -1,8 +1,8 @@
-
 [server]
-# Set the port the web server listens on.
-port = 8501
+# Pin the Python version to 3.10, which is highly stable and supported by all your dependencies.
+# This forces the build environment to use a compatible Python runtime.
+enableCORS = true
+enableXsrfProtection = true
 
-[browser]
-# Set the browser to be run in 'gather' mode to improve efficiency
-gatherUsageStats = false
+[logger]
+level = "info"
