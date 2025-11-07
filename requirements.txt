@@ -1,0 +1,7 @@
+streamlit
+streamlit_webrtc
+cv2
+mediapipe
+numpy
+time
+random
