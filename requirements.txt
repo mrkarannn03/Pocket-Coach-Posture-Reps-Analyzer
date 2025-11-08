@@ -1,7 +1,7 @@
-streamlit
-streamlit_webrtc
-opencv-python
-mediapipe
-numpy
 time
 random
+streamlit==1.31.1
+streamlit_webrtc==0.63.11
+opencv-python==4.9.0.80
+mediapipe==0.10.14
+numpy
